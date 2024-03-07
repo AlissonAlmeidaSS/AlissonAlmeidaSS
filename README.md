@@ -1,19 +1,19 @@
 Obrigado Pela Visita!
 
 Sobre mim:	
-🧔🏽‍♂️Alisson Almeida  	
-📚Sou aluno de Análise e Desenvolvimento de Sistemas do IFPB  	
-💻Atualmente Servidor na Prefeitura de Sousa - Paraiba  
+🧔🏽‍♂️Alisson Almeida    	
+📚Sou aluno de Análise e Desenvolvimento de Sistemas do IFPB  	  
+💻Atualmente Servidor na Prefeitura de Sousa - Paraiba      
   
 Sou Apaixonado por Tecnologia são Elas:  
 HTML   
 CSS  
 Java  
-JavaScript	
-Python	
-PostgreSQL	
-MongoDB	  
-Neo4j	  
+JavaScript	  
+Python	  
+PostgreSQL    	
+MongoDB	      
+Neo4j	      
 
 <!--
 **AlissonAlmeidaSS/AlissonAlmeidaSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
