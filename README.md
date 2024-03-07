@@ -1,5 +1,21 @@
-### Hi there 👋
+Obrigado Pela Visita!
 
+Sou Apaixonado por Tecnologia são Elas:
+
+Sobre mim -------------------------------------------------------------------------------------------------------
+🧔🏽‍♂️Alisson Almeida
+📚Sou aluno de Análise e Desenvolvimento de Sistemas do IFPB
+💻Atualmente Servidor na Prefeitura de Sousa - Paraiba
+
+tecnologias usadas ----------------------------------------------------------------------------------------------
+HTML
+CSS
+Java
+JavaScript
+Python
+PostgreSQL
+MongoDB
+Neo4j
 <!--
 **AlissonAlmeidaSS/AlissonAlmeidaSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
