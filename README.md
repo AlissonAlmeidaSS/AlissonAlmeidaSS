@@ -11,8 +11,8 @@ CSS
 Java  
 JavaScript	  
 Python	  
-PostgreSQL                                                                                                                                                                                                                                            	
-MongoDB	       
+PostgreSQL	  	
+MongoDB	  
 Neo4j	      
 
 <!--
