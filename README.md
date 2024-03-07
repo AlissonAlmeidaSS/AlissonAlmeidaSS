@@ -1,29 +1,18 @@
 Obrigado Pela Visita!
 
-Sobre mim:
-
-🧔🏽‍♂️Alisson Almeida
-
-📚Sou aluno de Análise e Desenvolvimento de Sistemas do IFPB
-
-💻Atualmente Servidor na Prefeitura de Sousa - Paraiba
+Sobre mim:	
+🧔🏽‍♂️Alisson Almeida	
+📚Sou aluno de Análise e Desenvolvimento de Sistemas do IFPB	
+💻Atualmente Servidor na Prefeitura de Sousa - Paraiba	
 
 Sou Apaixonado por Tecnologia são Elas:	
-
-HTML	
-
+HTML  
 CSS	
-
-Java	
-
+Java  
 JavaScript	
-
 Python	
-
 PostgreSQL	
-
 MongoDB	
-
 Neo4j	
 
 <!--
